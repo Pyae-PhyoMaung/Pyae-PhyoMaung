@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pyae-phyomaung&label=Profile%20views&color=eacb80&style=flat-square" alt="pyae-phyomaung" />
-  <a href="https://linkedin.com/in/pyae phyo maung" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -15,6 +14,30 @@ Hey there! Welcome to my GitHub space. I’m a developer on a mission to master 
 * 🌱 **Current Focus:** Leveling up as a **Data Engineer in Python**.
 * 🧠 **Interests:** Machine Learning, Natural Language Processing (NLP), and AIoT.
 * ⚡ **Fun Fact:** I love bridging the gap between digital data and physical hardware.
+
+---
+
+### 📬 Connect & Collaborate
+
+Let's build something cool together! You can check out my work or reach out through any of the channels below:
+
+* 🌐 **Portfolio Website:** [](https://pyae-phyomaung.github.io/github_portfolio/)
+* 📧 **Email:** [pyaephyomaung1440@gmail.com](mailto:pyaephyomaung1440@gmail.com)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pyae-phyo-maung-073b00322/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/pyae.phyo.maung.356070" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/katsuro1440/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@AokiKatsuro" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -62,19 +85,13 @@ Hey there! Welcome to my GitHub space. I’m a developer on a mission to master 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pyae-PhyoMaung&show_icons=true&locale=en&theme=luxury&hide=html" alt="pyae-phyomaung top langs" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pyae-PhyoMaung&show_icons=true&locale=en&theme=luxury" alt="pyae-phyomaung stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pyae-phyomaung&show_icons=true&locale=en&theme=dark" alt="pyae-phyomaung" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyae-phyomaung&theme=luxury" alt="pyae-phyomaung streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyae-phyomaung&theme=dark" alt="pyae-phyomaung streak" />
 </p>
 
 ---
-
-### 📬 Get in Touch
-
-* 📧 Drop me an email: **pyaephyomaung1440@gmail.com**
-* 💼 Connect on [LinkedIn](https://linkedin.com/in/pyae%20phyo%20maung)
 
 <p align="center">⭐ Thanks for dropping by! Feel free to check out my repositories. ⭐</p>
